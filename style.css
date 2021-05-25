@@ -682,7 +682,7 @@ p {
 }
 
 .tight-width-whitespace {
-  max-width: 550px;
+  max-width: 650px;
   margin: auto auto auto auto;
 }
 
@@ -768,7 +768,7 @@ h4 {
 }
 
 .black-background {
-  background-color: rgba(165, 147, 99, 0.7);
+  /* background-color: rgba(165, 147, 99, 0.7); */
   padding: 40px 40px 40px 40px;
 }
 
