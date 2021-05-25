@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 1);
 }
 
 .d-bloc .panel button:hover,
@@ -253,7 +253,7 @@ a:hover {
 }
 
 .l-bloc .navbar-toggle .icon-bar {
-  color: rgba(0, 0, 0, 0.6);
+  color: rgba(0, 0, 0, 1);
 }
 
 .d-bloc .panel .btn-wire,
@@ -347,7 +347,7 @@ a:hover {
 }
 
 .navbar-toggle .icon-bar {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 1);
   width: 26px;
 }
 
@@ -652,7 +652,7 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 400;
-  color: #575757 !important;
+  color: #141414 !important;
 }
 
 .container {
@@ -782,7 +782,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-  background-color: #364577;
+  background-color: #171e35;
 }
 
 .bgc-atomic-tangerine {
